@@ -1,0 +1,13 @@
+Sequelize:
+ 
++ Khái niệm: 
+  + Sequelize là module cho phép viết SQL trong JavaScript
+  + Support rất nhiều loại CSDL
+  + Không sử dụng query bằng SQL thuần mà dùng hàm giống như MongoDB
+  + ORM: Sequelize is an Object Relational Mapper
+  + ORM là một kĩ thuật giúp query và thao tác với dữ liệu từ Database theo object-oriented(hướng đối tượng)
+    --> Ví dụ biểu diễn 1 bảng như 1 object và tương tác với table đó thông qua method của object
+  +  Object(Your Program) -> Mapping Login -> Relational Database
+
++ Models
+  + Giống như table trong Database
